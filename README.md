@@ -1,6 +1,6 @@
 # Local Turístico: Conheça Busan
 
-![preview](./.github/preview.png)
+![image](https://github.com/user-attachments/assets/e970516d-36d0-48b8-a17d-10c6562aae07)
 
 > Formação Full-Stack: Iniciando o HTML e CSS (desafio prático)
 
