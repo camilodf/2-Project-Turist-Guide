@@ -7,7 +7,7 @@
 O projeto é uma simples página de turismo que exibe três destinos imperdíveis em Busan, Coreia do Sul.
 
 
-[🔗 Clique aqui para acessar])
+[🔗 Clique aqui para acessar]) (https://camilodf.github.io/2-Project-Turist-Guide/)
 
 
 ## 🛠️ Tecnologias
